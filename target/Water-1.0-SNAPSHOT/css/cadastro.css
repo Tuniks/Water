@@ -1,0 +1,59 @@
+
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    background-color:white;
+    text-align:center;
+    font-size:26pt;
+    letter-spacing: 3px;
+}
+
+#divPrincipal{
+    text-align:center;
+    width:40%;
+    min-height:400px;
+    background-color:white;
+    /*border:1px solid black;*/
+    margin-left:auto;
+    margin-right:auto;
+}
+
+table{
+    width:100%;
+    font-size:0.7em;
+    color:black;
+    text-align: center;
+}
+table td{
+    width:47%;
+    text-align:right;
+}
+table td+td{
+    width:6%;
+}
+table td+td+td{
+    width:47%;
+    text-align: left;
+}
+table td+td+td+td{
+    width:0%;
+}
+
+input[type=text]{
+    font-size:0.8em;
+    border:none;
+    width:100%;
+}
+
+.linkPadrao{
+    color:black;
+    cursor:pointer;
+    font-size:0.5em;
+}
+
+.linkPadrao:hover{
+    color: grey;
+}
+
+divMain{
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color:white;
+    text-align:center;
+    font-size:26pt;
+    letter-spacing: 3px;
+}
+
+#apto{
+    font-size:16pt;
+    width:200px;
+    text-align:center;
+}
+
+#submit{
+    font-size:16pt;
+    width:200px;
+    border:none;
+    background-color:white;
+}
+
+#submit:hover{
+    color:grey;
+    
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Water">
+    
+    
+  <Resource 
+      name="jdbc/postgres" 
+      url="jdbc:postgresql://127.0.0.1:5432/postgres" 
+      username="postgres"
+      password="269666" 
+
+
+      auth="Container" 
+      driverClassName="org.postgresql.Driver" 
+      logAbandoned="false" 
+      maxActive="200" 
+      maxIdle="100" 
+      maxWait="-1" 
+      removeAbandoned="true" 
+      removeAbandonedTimeout="60" 
+      type="javax.sql.DataSource" 
+  />
+  
+  
+</Context>

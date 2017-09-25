@@ -1,0 +1,8 @@
+com\mycompany\water\BaseDAO.class
+com\mycompany\water\LoginHandler.class
+com\mycompany\water\ParametrosHidroDTO.class
+com\mycompany\water\CadastroHandler.class
+com\mycompany\water\Controller.class
+com\mycompany\water\CondominoDAO.class
+com\mycompany\water\Handler.class
+com\mycompany\water\CondominosDTO.class
